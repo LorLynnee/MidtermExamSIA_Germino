@@ -1,0 +1,48 @@
+h4{
+    color: rgb(212, 214, 235);
+    padding: 15px;
+}
+body{
+    background-image: url(images/bg.png);
+    background-position: center;
+}
+.card{
+    background-color: #f9f2ec;
+    width: 600px;
+    height: 400px;
+}
+.btn{
+    width: 120px;
+    color: rgb(212, 214, 235);
+}
+
+.btn-con{
+    display: grid;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    justify-content: space-around;
+}
+.txt{
+    width: 250px;
+    height: 50px;
+}
+
+.txts{
+    width: 165px;
+}
+
+.numbers{
+    display: grid;
+    justify-content: center;
+
+}
+
+.inputs {
+    padding-left: 13rem;
+    padding-right: 13rem;
+}
+
+.container {
+    max-width: 660px!important;
+    margin-top: 10rem;
+}
